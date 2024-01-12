@@ -19,7 +19,7 @@
   ## Usage
   To run this you will need to run "npm i" in your terminal.
   You will also need to start your mysql shell by running "mysql -u root -p" and then follow prompt for 
-  password. The run:
+  password. Then run:
   
   source db/schema.sql
   
