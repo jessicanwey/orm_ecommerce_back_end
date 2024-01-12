@@ -35,7 +35,7 @@
 
   PRODUCTS: https://watch.screencastify.com/v/6vtF3h7Z8R0dgJhwI3do
 
-  CATERGORIES: https://watch.screencastify.com/v/znY4W9lrw4gI1RqA3l9t
+  CATEGORIES: https://watch.screencastify.com/v/znY4W9lrw4gI1RqA3l9t
 
   ## License
   MIT  
